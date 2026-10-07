@@ -1,6 +1,0 @@
-{
-  "type": "minecraft:crafting_shapeless",
-  "category": "misc",
-  "ingredients": ["minecraft:gold_ingot"],
-  "result": { "id": "ultrarevolver:coin", "count": 8 }
-}

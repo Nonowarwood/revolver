@@ -1,7 +1,0 @@
-{
-  "model": {
-    "type": "minecraft:special",
-    "base": "ultrarevolver:item/revolver",
-    "model": { "type": "geckolib:geckolib" }
-  }
-}
