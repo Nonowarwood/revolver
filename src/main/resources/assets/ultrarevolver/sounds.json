@@ -1,0 +1,5 @@
+{
+  "revolver_shot":   { "sounds": [ { "name": "ultrarevolver:revolver_shot",   "attenuation_distance": 96 } ] },
+  "coin_toss":       { "sounds": [ { "name": "ultrarevolver:coin_toss" } ] },
+  "coin_ricochet":   { "sounds": [ { "name": "ultrarevolver:coin_ricochet", "attenuation_distance": 48 } ] }
+}
